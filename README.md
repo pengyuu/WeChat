@@ -113,9 +113,6 @@
 1. [bingoogolapple的万能刷新控件](https://github.com/bingoogolapple/BGARefreshLayout-Android)
 1. [bingoogolapple的二维码控件扫描库](https://github.com/bingoogolapple/BGAQRCode-Android)
 1. [CJT2325的仿微信拍照Android控件](https://github.com/CJT2325/CameraView)
-1. ...
-
-### 自己(CSDN_LQR)做的库：
 
 1. [万能适配器](https://github.com/GitLqr/LQRAdapterLibrary)
 1. [包装过的RecyclerView](https://github.com/GitLqr/LQRRecyclerViewLibrary)
